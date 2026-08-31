@@ -1,0 +1,8 @@
+https://ai.google.dev/gemma/docs/core?hl=es-419
+Q4_0 (4 bits)
+
+https://huggingface.co/ibm-granite/granite-4.2-8b
+https://huggingface.co/ibm-granite/granite-4.2-3b
+https://www.ibm.com/es-es/granite
+
+Que desafíos tiene la gestión de la salud intercultural?

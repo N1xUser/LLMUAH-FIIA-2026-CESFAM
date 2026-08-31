@@ -1,0 +1,148 @@
+Volumen 49, N°4, 2017. Páginas 477-482
+Chungara, Revista de Antropología Chilena
+
+# EDITORIAL
+
+# INTERCULTURALIDAD, TRADICIONES CULTURALES Y ETNICIDADES. TRES NOCIONES CLAVES PARA COMPRENDER LAS POLÍTICAS SANITARIAS EN CHILE
+
+# INTERCULTURALITY, CULTURAL TRADITIONS AND ETHNICITIES. THREE KEY NOTIONS TO UNDERSTAND SANITARY POLICIES IN CHILE
+
+Vivian Gavilán¹, Patricia Vigueras², Carlos Madariaga³ y Michel Parra⁴
+
+Las políticas sanitarias dirigidas a los pueblos originarios en Chile se orientan a cumplir con diversos marcos jurídicos (Ley 19.253, 1993, la Ley 20.584 de derechos y deberes de los pacientes, Ley de Autoridad Sanitaria N°19.937, Reglamento Orgánico del Ministerio de Salud, Reglamento Orgánico de los Servicios de Salud, Norma General Administrativa N° 16 sobre Interculturalidad en los Servicios de Salud y el artículo 25 del Convenio 169 de la OIT). El propósito de las mismas es disminuir las inequidades en salud y considerar las reivindicaciones étnicas que han planteado las organizaciones que representan a los nueve pueblos indígenas que hoy reconoce el Estado.
+
+Entre las estrategias para la década (2010-2020) se identifican las políticas y planes de salud, la atención de salud intercultural y el modelo de salud intercultural. En este contexto se creó el Programa de Salud y Pueblos Indígenas, se ha avanzado en la generación de diagnósticos epidemiológicos con enfoque sociocultural en las regiones con alta población adscrita a los pueblos originarios; se han configurado equipos especializados en el trabajo intercultural con enfoque comunitario; se han realizado encuentros zonales interdisciplinarios con participación de agentes comunitarios orientados al intercambio de experiencias con fines de generar propuestas programáticas en este campo, entre otras acciones (Ministerio de Salud [MINSAL 2010]; y, recientemente, las orientaciones técnicas para el abordaje de la salud mental (MINSAL 2016). De este modo, se avanza hacia la implementación de la interculturalidad en salud, tanto en el marco normativo, como en la formación de los equipos de salud, especialmente de los médicos en el ciclo de destinación y formación.
+
+Las iniciativas son novedosas si consideramos que a lo largo del Siglo XX el Estado chileno no reconoció diferencias culturales; tampoco la condición de salud
+
+The health policies aimed at the indigenous peoples of Chile are designed to comply with several legal frameworks (Law 19,253 of 1993, Law 20584 on Rights and Duties of Patients, Law 19,937 on Health Authority, Organic Regulations of the Ministry of Health, Organic Regulations of the Health Services, General Administrative Norm N° 16 on Interculturality in the Health Services, and article 25 of the ILO Convention 169). The objective of these frameworks is to reduce the inequalities in health provision and incorporate the ethnic demands put forward by the representatives of the nine indigenous peoples recognized by the State.
+
+Among the strategies for the decade (2010-2020) are the health policies and plans, the intercultural healthcare framework, and the intercultural health model. In this context, the following, among other, actions have been taken: the Health and Indigenous Peoples Program was created; epidemiological diagnoses from a sociocultural perspective have been made in regions with a high density of indigenous population; specialized teams have been set up to carry out intercultural community work; zonal interdisciplinary meetings have been held with the participation of community workers in order to create programmatic proposals in this field (Ministry of Health [MINSAL 2010]; and, more recently, technical guidelines to address mental health issues have been developed (MINSAL 2016). Thus, progress is being made towards the implementation of interculturality in health, both in the regulatory framework and in the training of health teams, especially of doctors in the destination and training cycles.
+
+The initiatives are original considering that throughout the XX Century the Chilean State did not recognize cultural differences nor the health conditions of the indigenous population in relation
+
+¹ Departamento de Antropología, Universidad de Tarapacá, Arica, Chile. vtgavilanv@uta.cl
+
+² Escuela de Enfermería, Universidad Arturo Prat, Iquique, Chile. Patriciaviguerascherres@gmail.com
+
+³ Escuela de Salud Pública, Facultad de Medicina Universidad de Chile, Santiago, Chile. Madariaga21@gmail.com
+
+⁴ San Isidro 292 Depto. 2510, Santiago, Chile. michpac@gmail.com
+
+http://dx.doi.org/10.4067/S0717-73562017000400481.
+478
+
+Editorial
+
+de la población indígena en relación a la no indígena, ni se propuso disminuir las brechas de equidad. Son innovadoras, también, al considerar a las ciencias sociales como área de conocimiento que puede contribuir tanto al diseño como a las prácticas sanitarias. No obstante, una mirada crítica de éstas permite observar dificultades conceptuales que contradicen los objetivos propuestos tanto de las propias políticas como de las demandas de las organizaciones que representan a los pueblos indígenas.
+
+Con base en la experiencia de trabajo en el norte chileno, nos referimos aquí a las nociones de interculturalidad, de tradiciones culturales en salud de los pueblos indígenas y de etnicidades como una cuestión clave para comprender el accionar del Estado en salud pública. Si bien en la antropología existen diferentes marcos teóricos para entender los fenómenos a los que aluden, existe consenso en que la ciencia es histórica; en consecuencia, es política y éticamente correcto explicitarlos y que es necesario disponer de data empírica que los respalde.
+
+### Los Programas Interculturales Dirigidos al Pueblo Aymara
+
+Entre las acciones concretas que se han implementado en las regiones de Arica y Parinacota y de Tarapacá se considera la incorporación de facilitadoras culturales en los hospitales regionales, los programas de atención del parto¹, la inclusión de sanadores en consultorios de ciudades y de las zonas rurales y en los equipos de rondas médicas que recorren las localidades apartadas en valles y altiplano. Los agentes que participan en estas iniciativas son autoridades sanitarias, funcionarios (entre los cuales se identifican antropóloga-os sociales), sanadores aymara y representantes de organizaciones aymara (se incluyen aquí profesionales de la salud y de las ciencias sociales).
+
+El estudio de los documentos y de los significados que asignan los actores a las prácticas llamadas interculturales muestra que se trata de actividades dirigidas a facilitar el acceso a los centros de salud y a atender a la población indígena regional. Se pone énfasis en la cultura de los pueblos originarios y se invisibiliza la dimensión cultural de las prácticas sanitarias, las que incluyen tanto las acciones médicas como los modelos en los que se inscriben. El enfoque intercultural en salud se basa en el supuesto que la medicina indígena es tradicional en contraposición a la biomedicina, que sería medicina científica. En la historia de la antropología esta idea forma parte de las perspectivas a-históricas que consideraron la tradición como opuesta a la modernidad. En las profesiones dedicadas a la salud pública las acciones médicas tienden a asumir la perspectiva positivista que postula al sujeto como individuo biológico, alienándolo de la vida social. Se trata de dos paradigmas que siguen presentes en los currículums universitarios, lo que explica la reproducción de estos supuestos. La naturalización del modelo biomédico y la supuesta existencia de dos modelos médicos en oposición, puros y descontaminados, se sostiene en la idea
+
+to the non-indigenous. Neither did it set out to reduce the inequality gap. They are also innovative by taking into account the social sciences as a field of knowledge that can contribute both to the design and to the health practices. Nevertheless, a critical approach to these initiatives reveals conceptual issues that contradict their proposed objectives and the demands by the organizations representing the indigenous peoples.
+
+Based on the work experience in the north of Chile, here we address the notions of interculturality, health cultural traditions of the indigenous peoples, and ethnicities as key issues to understand the actions of the State regarding public health. Even though different theoretical frameworks coexist in anthropology to understand these phenomena, there is agreement in that science is historic. Therefore, it is politically and ethically right to make them explicit and it is also necessary to provide empirical data to support them.
+
+### The Intercultural Programs Aimed at the Aymara People
+
+Some of the actions that have been implemented in the Arica and Parinacota Region and in the Tarapacá Region include the participation of women cultural facilitators in the regional hospitals, the birth programs², the inclusion of healers in city and rural clinics and in the medical rounds visiting distant localities in valleys and the high plateau. The agents participating in these initiatives are health authorities, public servants (including social anthropologists), Aymara healers and representatives of Aymara organizations (including health and social science professionals).
+
+The study of the documents and of the meanings the actors give to the so-called intercultural practices shows that these are activities aimed at facilitating access to health centres and providing health care for the regional indigenous population. Emphasis is placed on the culture of the indigenous peoples, while the cultural dimensions of the health practices, which include both the medical actions and the models of which they are a part, are invisibilized. The intercultural approach in health is based on the assumption that indigenous medicine is traditional, in opposition to biomedicine, which would be scientific medicine. In the history of anthropology, this idea is part of the ahistorical perspectives that view tradition as opposed to modernity. And in the professions involved in public health, medical actions tend to assume the positivist perspective that sees the subject as a biological individual, alienating them from social life. These two paradigms are still present in university curricula, which explains the reproduction of these assumptions.
+
+The naturalization of the biomedical model and the assumed existence of two pure and uncontaminated medical models that are in opposition, is based on the idea that the first model falls within the cultural tradition
+Editorial
+
+479
+
+de que el primero se inscribe en la tradición cultural de la sociedad occidental y el otro en la tradición cultural indígena; cada uno con sus propios agentes (no indígenas e indígenas); unos hablan castellano, otros dominan las lenguas originarias. Estas ideas siguen lo estipulado por los dirigentes aymara en el informe del Grupo de Trabajo Aymara de la Comisión para el Nuevo Trato (2004) en salud como una estrategia para reivindicar derechos a la diferencia cultural. Influenciados por el movimiento indígena de los países vecinos, los dirigentes aymara utilizaron el concepto de interculturalidad no solo referido a las interrelaciones entre culturas diferentes, sino también para fortalecer lo propio, aquello que consideran subalternizado por el colonialismo (Walsh 2007). Los resultados del proceso organizativo, sin embargo, condujeron a afirmar identidades/alteridades esenciales.
+
+La dicotomía medicina tradicional/medicina moderna, entendida ésta última como biomedicina, simplifica una realidad compleja, pues en contextos de colonización el devenir de las acciones en salud ha conducido a modelos y sistemas mixtos y heterogéneos. Como ha señalado Menéndez (1987), se las concibe como si ambas constituyeran sistemas culturales aislados exteriormente y homogéneos interiormente; en consecuencia, niega la existencia de la heterogeneidad cultural dentro de la biomedicina y dentro de la medicina tradicional. En este sentido es pertinente considerar que los pueblos originarios son poseedores de conocimientos médicos, portadores de saberes de atención y de cuidados a la salud y, por lo tanto, no se debería hablar de medicina tradicional indígena y de medicina occidental o mestiza. Lo tradicional y lo científico, no son categorías homogéneas, ni cerradas, ni estáticas, ni aisladas, ni son las únicas formas de atención a la salud a las que recurre la población (Menéndez 1987).
+
+En efecto, en las prácticas de atención del sistema de salud pública podemos hallar variantes de la medicina moderna y las acciones para la salud y para la enfermedad de los pueblos originarios pueden incluir a la medicina moderna, a la tradición indígena y a la medicina popular que practicamos indígenas y no indígenas. Asimismo, hallamos profesionales de la salud que se adscriben al pueblo aymara y adoptan la biomedicina como modelo de atención, expertos en salud que no se adscriben étnicamente, pero adoptan prácticas de los modelos de salud indígenas. Hay agentes que dominan la lengua aymara pero tienden a seguir la medicina moderna, en tanto otros no manejan la lengua pero adoptan la medicina indígena.
+
+La heterogeneidad socioeconómica y sociocultural en la que los aymara se desenvuelven como resultado de las políticas de integración a la sociedad nacional muestra que van aumentando los niveles de escolaridad, las rupturas matrimoniales, el trabajo asalariado, la residencia en los centros urbanos más dinámicos va disminuyendo el número de hijos nacidos por mujer (Gavilán et al. 2017); y va aumentando el acceso a los dispositivos de salud pública. Por otra parte, las investigaciones cualitativas sobre la situación y condición de la colectividad aymara contemporánea informan cómo los patrones de integración
+
+of the western society, whereas the second, within the indigenous cultural tradition; each one with their own agents (non-indigenous and indigenous); and each one with their own group of speakers, Spanish speakers, on the one hand, and Aymara speakers, on the other. These ideas follow what was set out by the Aymara leaders in the report of the Grupo de Trabajo Aymara de la Comisión para el Nuevo Trato (2004) [Aymara Work Group of the New Deal Commission] on health as a strategy to claim the rights to cultural difference. Influenced by the indigenous movement of neighbouring countries, the Aymara leaders use the concept of interculturality not only as referring to the interrelations between different cultures, but also to strengthen what is own, that which they see as subordinated by colonialism (Walsh 2007). The results of the organizational process, however, led to the affirmation of essential identities/otherness.
+
+The dichotomy between traditional medicine and modern medicine, this last one understood as biomedicine, simplifies a complex reality, as in colonial contexts the development of actions in health has led to mixed and heterogenous systems and models. As pointed out by Menéndez (1987), they are seen as if both were externally-isolated and internally-homogeneous cultural systems, thus denying the existence of cultural heterogeneity within them. In this regard, it is relevant to acknowledge that indigenous peoples possess medical knowledge and carry healthcare knowledge, and, therefore, it is not appropriate to talk about indigenous traditional medicine and western or mestizo medicine. The traditional and the scientific are not homogenous, closed, static, or isolated categories, nor are they the only ways of healthcare people turn to (Menéndez 1987).
+
+In fact, in the care practices of the public health system we can find variants of modern medicine, and the actions for the health and sickness of indigenous peoples can include modern medicine, the indigenous tradition, and the popular medicine practiced by both indigenous and non-indigenous. Additionally, we find health professionals that belong to the Aymara people who adopt biomedicine as the care model, as well as non-indigenous health experts who adopt indigenous health practices. Some are Aymara speakers but practice modern medicine, while others do not know the indigenous language but practice indigenous medicine.
+
+The socioeconomic and sociocultural heterogeneity in which the Aymara live, as a result of the policies of integration to the national society, show that the levels of schooling, marital breakdowns, wage labor are increasing, the residence in more dynamic urban centres is reducing the number of born children per woman (Gavilán et al. 2017); and the access to public health centres is increasing. On the other hand, qualitative research about the situation and condition of the contemporary Aymara community shows how the integration patterns have taken place subordinating their cultural traditions and how they have been
+480
+
+Editorial
+
+han procedido subordinando a sus tradiciones culturales y han sido excluidos del diseño de las políticas dirigidas a mejorar su situación y condición (Gavilán et al. 2010; 2011; Gundermann y González 2008, 2009). En estos procesos, los Ministerios de Educación y de Salud han cumplido un rol fundamental. Los antecedentes históricos confirman el hecho que se ha impuesto el modelo hegemónico sin conocer las prácticas de salud legadas por generaciones anteriores y que contribuyeron a mantener la salud y enfrentar la enfermedad en la colectividad indígena (Guerrero 1995; van Kessel 1983, 1985).
+
+### Tradiciones Culturales en Salud y Etnicidades
+
+La condición heterogénea de la población indígena exige abordar los problemas de salud colectiva reconociendo que las tradiciones en salud son mixtas y que los procesos reivindicativos que interpelan al Estado y a la sociedad nacional por la diferencia cultural en salud se inscriben en el campo de la política. En el marco de las reivindicaciones de los pueblos originarios del norte chileno la identidad étnica apela a un tipo de ciudadanía social diferenciada (Gundermann et al. 2014). En este sentido, la afirmación de una identidad étnica no necesariamente implica diferencia cultural. Como tampoco la lengua puede ser indicador de una tradición cultural y/o étnica.
+
+Si entendemos las etnicidades como fenómeno que alude a la idea de identidades de grupos naturalizadas (Appadurai 2001), es posible ver cómo los sujetos individuales y colectivos conciben y califican sus tradiciones culturales en relación a la de otros grupos sociales como superior/inferior. Oommen (1994) sugiere que en la medida en que las etnicidades se transforman, pueden comprenderse como procesos; en consecuencia, van cambiando según sean los contextos sociopolíticos. En el actual pacto social entre el Estado y el pueblo aymara la afirmación de la alteridad tiende a reproducir las relaciones de poder en salud, más que a revertirlas.
+
+El hecho de que las prácticas sanitarias no distingan etnicidades de tradiciones culturales en salud agrega dificultades para la concreción de los objetivos que consideran la disminución de las brechas de equidad. Los datos acopiados respecto de las prácticas médicas en la colectividad indígena de la región de Tarapacá indican que varían menos por área de residencia (rural-urbana) que, por el nivel de escolaridad alcanzado, el acceso a la medicina moderna, la adscripción religiosa y la proximidad de los medios de comunicación. La escuela ha promovido la secularización y la racionalización de la vida social y un individualismo creciente. De aquí que las nociones de cuerpo y los saberes médicos no son homogéneos en la población. En la zona de valles se ha producido un proceso más acelerado de reemplazo del sistema médico propio por la medicina moderna. Es posible observar, por ejemplo, la desaparición paulatina de sanadores. Las localidades ubicadas en los valles, pueblos en los que se concentró la población hasta mediados del
+
+*excluded from the design of the policies aimed at improving their situation and condition (Gavilán et al. 2010; 2011; Gundermann and González 2008, 2009). The Ministries of Education and Health have played an important role in these processes. The historical records confirm that the hegemonic model has been imposed with total disregard for the health practices passed on by past generations which contributed to maintain health and face illness in the indigenous group (Guerrero 1995; van Kessel 1983, 1985).*
+
+### Cultural Traditions in Health and Ethnicities
+
+*The heterogeneity of the indigenous population implies that the approach to collective health issues must acknowledge that health traditions are mixed and that the demands for cultural difference addressed to the State and the national society fall within the realm of politics. In the context of the claims of the indigenous peoples in the Chilean north, ethnic identity refers to a type of differentiated social citizenship (Gundermann et al. 2014). In this regard, the affirmation of an ethnic identity does not necessarily imply cultural difference, just as the indigenous language may not index a cultural and/or ethnic tradition.*
+
+*If ethnicities are understood as a phenomenon that refers to the idea of naturalized group identities (Appadurai 2001), it is possible to see how collective and individual subjects understand and characterize their cultural traditions in relation to those of other social groups as either inferior or superior. Oommen (1994) suggests that to the extent that ethnicities are transformed, they can be seen as processes; consequently, they change depending on the socio-political contexts. In the current social pact between the State and the Aymara people, the affirmation of otherness tends to reproduce, rather than reverse, the power relations in health.*
+
+*The fact that health practices do not distinguish between ethnicities and cultural traditions in health results in additional difficulty to achieve the objectives aimed at reducing the equality gaps. The data collected regarding the medical practices in the indigenous community of the Tarapacá Region show that they vary less by residence area (rural-urban) than by education level, access to modern medicine, religious affiliation and closeness of mass media. The school has promoted the secularization and rationalization of social life as well as a growing individualism. Hence, the notions of body and the medical knowledge are not homogenous among the population. In the valleys, the own medical system has been more rapidly replaced by modern medicine. It is possible to observe, for example, the gradual disappearance of healers. The localities in the valleys, towns where the population concentrated until the mid XX century, have no healers. While in some cases they are replaced by the new generations, this time as professionals, in other cases they are replaced*
+Editorial
+
+481
+
+siglo XIX, ya no cuentan con sanadores. En algunos casos son reemplazados por las nuevas generaciones, pero ahora como profesionales; en otros, por sanadores de la zona altiplánica y mayor uso de los servicios públicos. Si bien las comunidades del altiplano tienden, también, a seguir el mismo camino, la presencia más nítida de sanadores ejerciendo una praxis cotidiana habla de una mayor vigencia de la medicina andina. Aun así, la tendencia no se detiene. En Isluga, comunidad ubicada en la frontera con Bolivia, se observa la desaparición de *yatiris* mujeres. Esta pérdida paulatina se expresa sobre todo en la desaparición del *chiriguano*, sanador que solía caminar por los pueblos ofreciendo sus servicios de sanación. En el mismo sentido, se contaría únicamente con un *waytiri* (de origen chipaya), sanador de alto prestigio provisto de saberes y técnicas de sanación para problemas complejos (Gavilán et al. 2010; 2011).
+
+Otro aspecto visible del desplazamiento del sistema médico andino y reconocido por los sanadores se expresa en la atención del parto. Los partos, que fueron atendidos en casa hasta fines del siglo XX, hoy están forzados a ser atendidos en el hospital. Por otra parte, una cuestión crítica es el reemplazo de las lenguas originarias por el castellano, lo que juega en contra de la preservación del conocimiento en salud.
+
+Así, las políticas que aplican un enfoque intercultural que considera a los modelos y sistemas médicos indígenas como medicina tradicional e invisibiliza la hegemonía del modelo biomédico, que no distinguen las tradiciones en salud de la colectividad aymara de las demandas étnicas y -lo que nos parece de primer orden- de las condiciones de salud de la misma, pueden entenderse como otro modo de administrar las diferencias culturales y étnicas por parte del Estado chileno para continuar subalternizando al pueblo aymara.
+
+*by healers from the high plateau and by a greater use of the public services. Even though the high plateau communities also show a similar trend, the clear presence of healers practicing daily, is evidence of a greater vitality of Andean medicine. Nonetheless, the tendency does not stop. In Isluga, a community located in the border of Bolivia and Chile, it is possible to observe the disappearance of women yatiris. This gradual loss is evident in the disappearance of the chiriguano, a healer who used to walk across towns to offer their healing services. Further, there would only be one waytiri (from Chipaya), a highly regarded healer who possesses healing knowledge and techniques to deal with complex problems (Gavilán et al. 2010; 2011).*
+
+*Another visible aspect of the shift of the Andean medical system and acknowledged by the healers is seen in birth care. Births, attended at homes until the end of the XX century, are now forced to be attended in the hospital. On the other hand, a critical issue involves the language shift from the indigenous language to Spanish, which is to the detriment of the preservation of health knowledge.*
+
+*Thus, the intercultural policies that regard the indigenous models and medical systems as traditional medicine and invisibilize the hegemony of the biomedical model, that do not distinguish between the health tradition of the Aymara community and the ethnic demands and -most importantly- the health conditions of the community, can be understood as another way of managing cultural and ethnic differences by the Chilean State to continue subalternizing the Aymara people.*
+
+## Referencias Citadas
+
+Appadurai, A. 2001. *La Modernidad Desbordada*. Ediciones Trilce y Fondo de Cultura Económica, Buenos Aires.
+Comisión Verdad Histórica y Nuevo Trato 2004. Informe final del Grupo de Trabajo Aymara 85-133 http://biblioteca.serindigena.org/libros_digitales/cvhynt/v_1/1p/3_primera_parte_II_norte_%20cap1.pdf
+Gavilán, V. y A.M. Carrasco 2017. Prácticas discursivas e identidades de género de las mujeres aymara del norte chileno (1980-2015). *Diálogo Andino*, en prensa.
+Gavilán, V. C. Madariaga, N. Morales, M. Parra, A. Arratia, R. Andrade y P. Vigueras 2010. *Conocimientos y Prácticas en Salud, Patrimonio Cultural de los Pueblos Originarios Tarapaqueños*. Fondart, Universidad Arturo Prat. Iquique.
+Gavilán, V., P. Vigueras, M. Parra, C. Madariaga, N. Morales, A. Arratia y R. Andrade 2011. La sociedad y la cultura andina contemporánea: estudio de los saberes para la salud y la enfermedad en los pueblos originarios del norte de Chile. *Revista de Indias* LXXI:571-600.
+Guerrero, B. 1995. Medicina andina y medicina pentecostal en los aymaras del norte grande de Chile: del yatiri al pastor. *Chungara* 27:153-165.
+
+Gundermann, H. y H. González 2008. Pautas de integración, migración, movilidad y redes sociales de los pueblos indígenas en Chile. *Universum* 23:82-115.
+Gundermann, H. y H. González 2009. Sociedades indígenas y conocimiento antropológico: aymaras y atacameños de los siglos XIX y XX. *Chungara Revista de Antropología Chilena* 41:113-164.
+Gundermann, H., H. González y J. Durston 2014. Relaciones sociales y etnicidad en el espacio aymara chileno. *Chungara Revista de Antropología Chilena* 46:397-421.
+van Kessel, J. 1983. Ayllu y ritual terapéutico en la medicina andina. *Chungara* 10:165-176.
+van Kessel, J. 1985. La Medicina andina. *Cuaderno de Investigación Social* 13. Centro de Investigación de la Realidad del Norte, Iquique.
+Menéndez, E. 1987. *Medicina Tradicional, Atención Primaria y la Problemática del Alcoholismo*. Editorial Casa Chata, México, D.F.
+Ministerio de Salud Chile. 2010. Metas Sanitarias 2011-2020. Elige Vivir Sano. http://www.minsal.cl/portal/ul/item/c4034edbc96ca6de040010164015968.pdf
+482
+
+Editorial
+
+Ministerio de Salud Chile 2016. Orientaciones Técnicas para la Atención de Salud Mental con pueblos indígenas: hacia un enfoque cultural. Santiago http://ssmaule.redsalud.gob.cl/index.php/component/jdownloads/send/318-orientaciones-tecnicas/1419-orientaciones-tecnicas-para-la-atencion-de-salud-mental-con-pueblos-indigenas-29-de-julio-2016-pdf?option=com_jdownloads
+
+Oommen T.K. 1994. Raza, etnicidad y clase: análisis de las interrelaciones. Revista Internacional de Ciencias Sociales 39:101-113.
+
+Walsh, C. 2010. Deconstruir la interculturalidad. Consideraciones críticas la colonialidad y movimientos indígenas en Ecuador. En Interculturalidad y Política. Desafíos y Posibilidades, editado por N. Fuller, pp. 115-142. Red para las Ciencias Sociales del Perú, Lima.
+
+# Nota
+
+1 Red de parto aymara en el Hospital Dr. E. Torres Galdames de Iquique y Utasanjam usuña/Parir como en casa, en el Hospital Dr. Juan Noé Crevani de Arica.
+
+# Note
+
+1 Aymara birth network at the Dr. E. Torres Galdames Hospital of Iquique, and Utasanjam usuña/Giving birth as in home, at the Dr. Juan Noé Crevani Hospital of Arica.

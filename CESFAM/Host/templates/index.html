@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div id="sidebar">
+        <div class="sidebar-header">
+            <button id="new-chat-btn" class="btn-outline">NUEVO CHAT</button>
+        </div>
+        <div class="chat-list" id="chat-list"></div>
+    </div>
+    <div id="main-content">
+        <header>
+            <button id="sidebar-toggle" class="sidebar-toggle" aria-label="Toggle sidebar">☰</button>
+            <h2 class="chat-title">Conversación</h2>
+        </header>
+        <div id="chat-container"></div>
+        <div class="input-container">
+            <form id="chat-form" class="input-wrapper">
+                <input type="text" id="query-input" placeholder="Escribe tu mensaje..." autocomplete="off" required>
+                <button type="submit" id="submit-btn" class="btn-primary">ENVIAR</button>
+            </form>
+        </div>
+    </div>
+    <div id="captcha-modal" class="modal">
+        <div class="modal-content">
+            <h3>Verificación requerida</h3>
+            <p id="captcha-text">Cargando...</p>
+            <form id="captcha-form">
+                <input type="text" id="captcha-input" placeholder="Respuesta" required autocomplete="off">
+                <button type="submit" class="btn-primary">VERIFICAR</button>
+            </form>
+            <p id="captcha-error" class="error-msg"></p>
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
