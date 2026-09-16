@@ -5,7 +5,7 @@ import subprocess
 import time
 import secrets
 import random
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template, Response
 
 app = Flask(__name__)
 HISTORY_DIR = "history"
@@ -117,28 +117,37 @@ def chat():
     
     env = os.environ.copy()
     env["PYTHONIOENCODING"] = "utf-8"
+    env["PYTHONUNBUFFERED"] = "1"
     
-    try:
-        result = subprocess.run(
-            ["python", agent_script, query],
+    def generate():
+        yield f"data: {json.dumps({'chat_id': chat_id})}\n\n"
+        
+        process = subprocess.Popen(
+            ["python", "-u", agent_script, query],
             cwd=agent_dir,
-            capture_output=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
             text=True,
-            check=True,
             encoding="utf-8",
             errors="replace",
-            env=env
+            env=env,
+            bufsize=1
         )
-        response_text = result.stdout
-    except subprocess.CalledProcessError as e:
-        response_text = str(e.stderr)
         
-    history.append({"role": "bot", "content": response_text})
-    
-    with open(history_file, "w", encoding="utf-8") as f:
-        json.dump(history, f, ensure_ascii=False, indent=2)
-        
-    return jsonify({"chat_id": chat_id, "response": response_text})
+        full_response = []
+        while True:
+            char = process.stdout.read(1)
+            if not char and process.poll() is not None:
+                break
+            if char:
+                full_response.append(char)
+                yield f"data: {json.dumps({'chunk': char})}\n\n"
+                
+        history.append({"role": "bot", "content": "".join(full_response)})
+        with open(history_file, "w", encoding="utf-8") as f:
+            json.dump(history, f, ensure_ascii=False, indent=2)
+            
+    return Response(generate(), mimetype="text/event-stream")
 
 @app.route("/api/history/<chat_id>", methods=["GET"])
 def get_history(chat_id):

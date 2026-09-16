@@ -3,6 +3,7 @@ import sys
 import time
 import numpy as np
 from typing import List, Optional
+from pathlib import Path
 from models import DocumentChunk, SearchResult
 from google import genai
 from google.genai import types
@@ -15,7 +16,25 @@ class GeminiRAGService:
             sys.exit(1)
         self.client = genai.Client(api_key=self.api_key)
         self.embedding_model = "gemini-embedding-2"
-        self.generation_model = "gemini-3.6-flash"
+        self.generation_model = "gemini-3.8-flash"
+
+        self.system_instruction = None
+        base_dir = Path(__file__).resolve().parent
+        context_file = base_dir / "Process" / "contex.md"
+        
+        if context_file.exists():
+            try:
+                with open(context_file, "r", encoding="utf-8") as f:
+                    context_content = f.read()
+                
+                self.system_instruction = (
+                    "Estos dos documentos sintetizados enviados son para poder responder "
+                    "preguntas generales que tenga el usuario, este contexto sirve como base "
+                    "de conocimiento legitima\n\n"
+                    f"{context_content}"
+                )
+            except Exception as e:
+                print(f"Error al leer context.md: {e}")
 
     def format_document_for_embedding(self, chunk: DocumentChunk) -> str:
         return f"title: none | text: {chunk.text}"
@@ -59,8 +78,8 @@ class GeminiRAGService:
                         all_embeddings.append(emb)
                     except Exception:
                         all_embeddings.append(np.zeros(768, dtype=np.float32))
-            print(f"Progreso embeddings: {min(i + batch_size, total)}/{total}", end="\r", flush=True)
-        print()
+            print(f"Progreso embeddings: {min(i + batch_size, total)}/{total}", end="\r", flush=True, file=sys.stderr)
+        print(file=sys.stderr)
         return all_embeddings
 
     def generate_answer(self, query: str, context_results: List[SearchResult]) -> str:
@@ -72,10 +91,18 @@ class GeminiRAGService:
         context_text = "\n".join(context_snippets)
         prompt = f"Basandote en los siguientes documentos:\n\n{context_text}\n\nResponde:\n{query}"
         try:
-            response = self.client.models.generate_content(
-                model=self.generation_model,
-                contents=prompt,
-            )
-            return response.text
+            kwargs = {
+                "model": self.generation_model,
+                "contents": prompt,
+            }
+            if self.system_instruction:
+                kwargs["config"] = types.GenerateContentConfig(
+                    system_instruction=self.system_instruction,
+                )
+                
+            response = self.client.models.generate_content_stream(**kwargs)
+            for chunk in response:
+                if chunk.text:
+                    yield chunk.text
         except Exception as e:
-            return f"Error al generar respuesta: {e}"
+            yield f"Error al generar respuesta: {e}"

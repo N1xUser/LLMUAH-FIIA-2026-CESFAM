@@ -219,12 +219,56 @@ chatForm.addEventListener('submit', async (e) => {
                 appendMessage('bot', data.error || 'Error de autorización');
             }
         } else if (res.ok) {
-            const data = await res.json();
-            if (data.chat_id !== chatId) {
-                chatId = data.chat_id;
+            const reader = res.body.getReader();
+            const decoder = new TextDecoder();
+            
+            const wrapper = document.createElement('div');
+            wrapper.className = 'message-wrapper bot';
+            
+            const roleDiv = document.createElement('div');
+            roleDiv.className = 'message-role';
+            roleDiv.textContent = 'SISTEMA';
+            
+            const contentDiv = document.createElement('div');
+            contentDiv.className = 'message-content';
+            
+            wrapper.appendChild(roleDiv);
+            wrapper.appendChild(contentDiv);
+            chatContainer.appendChild(wrapper);
+            
+            let fullResponse = '';
+            let buffer = '';
+
+            while (true) {
+                const { done, value } = await reader.read();
+                if (done) break;
+                
+                buffer += decoder.decode(value, { stream: true });
+                const lines = buffer.split('\n\n');
+                buffer = lines.pop();
+                
+                for (const line of lines) {
+                    if (line.startsWith('data: ')) {
+                        const dataStr = line.slice(6);
+                        try {
+                            const data = JSON.parse(dataStr);
+                            if (data.chat_id) {
+                                if (data.chat_id !== chatId) {
+                                    chatId = data.chat_id;
+                                    loadSidebar();
+                                }
+                            }
+                            if (data.chunk) {
+                                fullResponse += data.chunk;
+                                contentDiv.innerHTML = marked.parse(fullResponse);
+                                chatContainer.scrollTop = chatContainer.scrollHeight;
+                            }
+                        } catch (e) {
+                            console.error('Error parsing SSE data:', e, dataStr);
+                        }
+                    }
+                }
             }
-            appendMessage('bot', data.response);
-            loadSidebar();
         } else {
             appendMessage('bot', 'Ocurrió un error inesperado.');
         }

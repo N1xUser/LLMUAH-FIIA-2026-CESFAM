@@ -45,29 +45,28 @@ class RAGAgent:
                 self.vector_store.update_file_hash(file_path)
             self.vector_store.save()
 
-    def query(self, user_question: str, top_k: int = 5) -> Tuple[str, List[SearchResult]]:
+    def query(self, user_question: str, top_k: int = 5):
         if not self.vector_store.chunks:
             self.index_documents()
         formatted_query = self.service.format_query_for_embedding(user_question)
         query_emb = self.service.embed_text(formatted_query)
         search_results = self.vector_store.search(query_emb, top_k=top_k)
-        answer = self.service.generate_answer(user_question, search_results)
-        return answer, search_results
+        answer_generator = self.service.generate_answer(user_question, search_results)
+        return answer_generator, search_results
 
 def main():
+    import sys
     parser = argparse.ArgumentParser()
     parser.add_argument("query", type=str)
     args = parser.parse_args()
 
     agent = RAGAgent()
     agent.index_documents()
-    answer, results = agent.query(args.query)
+    answer_generator, results = agent.query(args.query)
 
-    print("\nRESPUESTA:")
-    print(answer)
-    print("\nFUENTES:")
-    for i, r in enumerate(results, 1):
-        print(f" [{i}] {r.chunk.relative_path}")
+    for chunk in answer_generator:
+        print(chunk, end="", flush=True)
+    print("\n", flush=True)
 
 if __name__ == "__main__":
     main()
