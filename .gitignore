@@ -21,8 +21,9 @@ dist/
 .eggs/
 *.egg
 
-# Archivos generados por la aplicación (historiales y base vectorial)
+# Archivos generados por la aplicación (historiales, estado y base vectorial)
 CESFAM/Host/history/
+CESFAM/Host/data/
 CESFAM/Model/Agent/Cloud/cache/
 
 # IDEs y configuración del sistema operativo

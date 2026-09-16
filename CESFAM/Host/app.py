@@ -5,16 +5,86 @@ import subprocess
 import time
 import secrets
 import random
+import fcntl
 from flask import Flask, request, jsonify, render_template, Response
 
 app = Flask(__name__)
 HISTORY_DIR = "history"
-
-CAPTCHAS = {}
-TOKENS = {}
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 
 if not os.path.exists(HISTORY_DIR):
-    os.makedirs(HISTORY_DIR)
+    os.makedirs(HISTORY_DIR, exist_ok=True)
+if not os.path.exists(DATA_DIR):
+    os.makedirs(DATA_DIR, exist_ok=True)
+
+
+class FileDict:
+    """Dict-like object backed by a JSON file with file locking for multi-worker safety."""
+
+    def __init__(self, filepath):
+        self.filepath = filepath
+        if not os.path.exists(filepath):
+            with open(filepath, 'w') as f:
+                json.dump({}, f)
+
+    def _with_lock(self, callback):
+        with open(self.filepath, 'r+') as f:
+            fcntl.flock(f, fcntl.LOCK_EX)
+            try:
+                try:
+                    data = json.load(f)
+                except (json.JSONDecodeError, ValueError):
+                    data = {}
+                result = callback(data)
+                f.seek(0)
+                f.truncate()
+                json.dump(data, f)
+                return result
+            finally:
+                fcntl.flock(f, fcntl.LOCK_UN)
+
+    def get(self, key, default=None):
+        return self._with_lock(lambda d: d.get(key, default))
+
+    def set(self, key, value):
+        self._with_lock(lambda d: d.__setitem__(key, value))
+
+    def delete(self, key):
+        self._with_lock(lambda d: d.pop(key, None))
+
+    def __contains__(self, key):
+        return self._with_lock(lambda d: key in d)
+
+    def cleanup_expired(self):
+        now = time.time()
+        def _cleanup(data):
+            expired = [k for k, v in data.items() if isinstance(v, dict) and 'expires' in v and now > v['expires']]
+            for k in expired:
+                del data[k]
+        self._with_lock(_cleanup)
+
+    def verify_captcha(self, captcha_id, answer):
+        def _verify(data):
+            if captcha_id not in data:
+                return None
+            captcha_data = data[captcha_id]
+            if time.time() > captcha_data['expires']:
+                del data[captcha_id]
+                return None
+            try:
+                if int(answer) == captcha_data['answer']:
+                    del data[captcha_id]
+                    token = secrets.token_hex(16)
+                    return token
+            except (ValueError, TypeError):
+                pass
+            del data[captcha_id]
+            return None
+        return self._with_lock(_verify)
+
+
+CAPTCHAS = FileDict(os.path.join(DATA_DIR, "captchas.json"))
+TOKENS = FileDict(os.path.join(DATA_DIR, "tokens.json"))
 
 @app.route("/")
 def index():
@@ -25,33 +95,26 @@ def get_captcha():
     a = random.randint(1, 10)
     b = random.randint(1, 10)
     captcha_id = str(uuid.uuid4())
-    CAPTCHAS[captcha_id] = {"answer": a + b, "expires": time.time() + 300}
-    
-    expired = [k for k, v in CAPTCHAS.items() if time.time() > v["expires"]]
-    for k in expired:
-        del CAPTCHAS[k]
-        
+    CAPTCHAS.set(captcha_id, {"answer": a + b, "expires": time.time() + 300})
+
+    CAPTCHAS.cleanup_expired()
+
     return jsonify({"captcha_id": captcha_id, "text": f"¿Cuánto es {a} + {b}?"})
 
 @app.route("/api/verify_captcha", methods=["POST"])
 def verify_captcha():
     data = request.json
+    if not data:
+        return jsonify({"error": "Captcha incorrecto o expirado"}), 403
+
     captcha_id = data.get("captcha_id")
     answer = data.get("answer")
-    
-    if captcha_id in CAPTCHAS:
-        captcha_data = CAPTCHAS[captcha_id]
-        if time.time() < captcha_data["expires"]:
-            try:
-                if int(answer) == captcha_data["answer"]:
-                    token = secrets.token_hex(16)
-                    TOKENS[token] = time.time() + 1800
-                    del CAPTCHAS[captcha_id]
-                    return jsonify({"token": token})
-            except (ValueError, TypeError):
-                pass
-        del CAPTCHAS[captcha_id]
-        
+
+    token = CAPTCHAS.verify_captcha(captcha_id, answer)
+    if token:
+        TOKENS.set(token, time.time() + 1800)
+        return jsonify({"token": token})
+
     return jsonify({"error": "Captcha incorrecto o expirado"}), 403
 
 
@@ -87,12 +150,13 @@ def chat():
     token = request.headers.get("Authorization")
     if token:
         token = token.replace("Bearer ", "")
-        
-    if not token or token not in TOKENS:
+
+    token_expiry = TOKENS.get(token) if token else None
+    if not token or token_expiry is None:
         return jsonify({"error": "Por favor, resuelve el captcha primero.", "needs_captcha": True}), 403
-        
-    if time.time() > TOKENS[token]:
-        del TOKENS[token]
+
+    if time.time() > token_expiry:
+        TOKENS.delete(token)
         return jsonify({"error": "Token expirado. Por favor, resuelve el captcha de nuevo.", "needs_captcha": True}), 403
 
     data = request.json
