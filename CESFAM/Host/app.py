@@ -5,7 +5,13 @@ import subprocess
 import time
 import secrets
 import random
-import fcntl
+import sys
+
+if os.name == 'nt':
+    import msvcrt
+else:
+    import fcntl
+
 from flask import Flask, request, jsonify, render_template, Response
 
 app = Flask(__name__)
@@ -29,7 +35,14 @@ class FileDict:
 
     def _with_lock(self, callback):
         with open(self.filepath, 'r+') as f:
-            fcntl.flock(f, fcntl.LOCK_EX)
+            if os.name == 'nt':
+                pos = f.tell()
+                f.seek(0)
+                msvcrt.locking(f.fileno(), msvcrt.LK_LOCK, 1)
+                f.seek(pos)
+            else:
+                fcntl.flock(f, fcntl.LOCK_EX)
+                
             try:
                 try:
                     data = json.load(f)
@@ -41,7 +54,13 @@ class FileDict:
                 json.dump(data, f)
                 return result
             finally:
-                fcntl.flock(f, fcntl.LOCK_UN)
+                if os.name == 'nt':
+                    pos = f.tell()
+                    f.seek(0)
+                    msvcrt.locking(f.fileno(), msvcrt.LK_UNLCK, 1)
+                    f.seek(pos)
+                else:
+                    fcntl.flock(f, fcntl.LOCK_UN)
 
     def get(self, key, default=None):
         return self._with_lock(lambda d: d.get(key, default))
