@@ -1,0 +1,4 @@
+
+sentence-transformers>=3.0.0
+faster-whisper>=1.0.0
+gTTS>=2.5.0

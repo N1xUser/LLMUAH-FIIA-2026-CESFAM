@@ -1,0 +1,25 @@
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: "CESFAM - V2/Dockerfile"
+    ports:
+      - "1218:8000"
+      - "1219:8000"
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+    volumes:
+      - "chat_history:/workspace/CESFAM - V2/app/history"
+
+  mongo:
+    image: mongo:7
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  mongo_data:
+  chat_history:

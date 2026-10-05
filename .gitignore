@@ -10,7 +10,7 @@ env/
 ENV/
 .venv/
 
-# Caché y compilados de Python
+# Cache y compilados de Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -21,12 +21,13 @@ dist/
 .eggs/
 *.egg
 
-# Archivos generados por la aplicación (historiales, estado y base vectorial)
-CESFAM/Host/history/
-CESFAM/Host/data/
-CESFAM/Model/Agent/Cloud/cache/
+# Archivos generados por la aplicacion (historiales, estado y base vectorial)
+"CESFAM - V2/app/history/"
+"CESFAM - Pipeline/Host/history/"
+"CESFAM - Pipeline/Host/data/"
+"CESFAM - Pipeline/Model/Agent/Cloud/cache/"
 
-# IDEs y configuración del sistema operativo
+# IDEs y configuracion del sistema operativo
 .vscode/
 .idea/
 .DS_Store
