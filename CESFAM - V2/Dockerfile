@@ -2,6 +2,9 @@ FROM python:3.12-slim
 
 WORKDIR /workspace
 
+RUN python -m venv /opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
+
 COPY ["CESFAM - V2/requirements.txt", "./requirements.txt"]
 RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install --no-cache-dir google-genai numpy python-dotenv
