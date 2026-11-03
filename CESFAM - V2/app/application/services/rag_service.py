@@ -23,7 +23,7 @@ class RAGService:
         embedding_provider: EmbeddingProvider,
         vector_repository: VectorRepository,
         llm_provider: LLMProvider,
-        top_k: int = 5,
+        top_k: int = 3,
     ) -> None:
         self._top_k = top_k
         if RAGAgent:

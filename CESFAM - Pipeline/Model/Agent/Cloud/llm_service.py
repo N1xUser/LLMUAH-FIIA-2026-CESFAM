@@ -78,8 +78,9 @@ class GeminiRAGService:
             "- Se extremadamente breve, directo y conciso. Ve directo al grano desde la primera palabra.\n"
             "- Prohibido el verboseo: no uses introducciones de relleno (ej. 'Claro, te explico', "
             "'Es importante mencionar'), ni repeticiones, ni conclusiones o cierres largos.\n"
-            "- Responde en un maximo de 1 a 2 parrafos cortos (o hasta 3 a 4 viñetas breves si es una lista). "
-            "No te extiendas mas de lo estrictamente necesario para contestar la duda puntual.\n"
+            "- Responde en 2 a 4 oraciones cortas como maximo (aproximadamente 40 a 70 palabras), "
+            "o hasta 3 vinetas puntuales si es estrictamente necesario listar. "
+            "No expliques contexto adicional que el usuario no haya preguntado.\n"
             "- Responde siempre en espanol chileno, con un tono cercano y respetuoso.\n"
             "- IMPORTANTE: NUNCA USES EMOJIS. Esta estrictamente prohibido usar emojis en cualquier respuesta.\n"
             "- Cuando cites normativa, menciona la fuente de forma corta (ej. Decreto 21, Art. X).\n"
@@ -100,6 +101,9 @@ class GeminiRAGService:
             "Los siguientes documentos sintetizados constituyen tu base de conocimiento "
             "legitima para responder consultas. Usa esta informacion como fuente primaria:\n\n"
             + context_content
+            + "\n\nRECORDATORIO OBLIGATORIO DE ESTILO\n"
+            "Responde siempre de forma ultra breve y directa (maximo 2 a 4 oraciones cortas, "
+            "sin preambulos, sin rodeos, sin preguntas de cierre innecesarias y sin emojis)."
         )
 
     def format_document_for_embedding(self, chunk: DocumentChunk) -> str:
@@ -160,10 +164,10 @@ class GeminiRAGService:
             "=== DOCUMENTOS ===\n"
             f"{context_text}\n"
             "==================\n\n"
-            "Instruccion: Si es una consulta, usa la informacion anterior para responder "
-            "de forma directa, breve y sin rodeos (maximo 1 a 2 parrafos cortos, sin "
-            "introducciones ni cierres de relleno). Si solo es un saludo o agradecimiento, "
-            "ignorala y responde en una sola oracion corta.\n\n"
+            "Instruccion: Si es una consulta, responde directo al grano en 2 a 4 oraciones "
+            "cortas usando solo el dato esencial de los documentos, sin introducciones, "
+            "resumenes ni cierres de relleno. Si solo es un saludo o agradecimiento, "
+            "responde en una sola oracion corta.\n\n"
             "Intervencion del usuario:\n"
             f"{query}"
         )
