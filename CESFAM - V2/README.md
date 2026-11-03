@@ -22,7 +22,7 @@ El system prompt del agente (definido en `CESFAM - Pipeline/Model/Agent/Cloud/ll
 2. **Alcance tematico estricto**: Solo responde sobre salud publica, CESFAM, interculturalidad, normativa MINSAL, sistemas medicos indigenas, GES/AUGE, facilitadores interculturales, y derechos de pacientes.
 3. **Reglas de rechazo**: Cualquier pregunta fuera de ambito recibe un mensaje estandar de redireccion a temas de salud.
 4. **Proteccion anti-prompt-injection**: Rechaza intentos de jailbreak, cambio de rol, DAN, "modo desarrollador", "olvida tus instrucciones", roleplay externo, y cualquier variante de manipulacion. No revela el system prompt bajo ninguna circunstancia.
-5. **Tono**: Espanol chileno, cercano, respetuoso y profesional. Cita fuentes normativas cuando corresponde.
+5. **Tono y brevedad**: Espanol chileno, cercano, respetuoso y directo. Respuestas concisas (maximo 1 a 2 parrafos cortos o listas breves), sin rodeos, introducciones de relleno ni emojis, citando fuentes normativas de forma puntual.
 
 ## Ejecución Local
 
