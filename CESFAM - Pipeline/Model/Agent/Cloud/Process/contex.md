@@ -6,206 +6,202 @@ cultural e interculturalidad, destinada a orientar a los equipos de salud.
 
 Legislación y Normativa Principal:
 
-  - Ley 20.584 (Derechos y Deberes de los Pacientes), Artículo 7: Establece el
-    derecho de las personas pertenecientes a pueblos originarios a recibir una
-    atención de salud con pertinencia cultural en territorios de alta
-    concentración indígena. Exige la aplicación de un modelo de salud
-    intercultural validado por las comunidades que incluya: reconocimiento de
-    sistemas de sanación, facilitadores interculturales, señalética bilingüe y
-    asistencia espiritual.
-  - Decreto 21 (Reglamento del Art. 7, Ley 20.584): Define los componentes
-    obligatorios del Modelo de Salud Intercultural: a) Participación indígena,
-    b) Reconocimiento y fortalecimiento de sistemas de sanación, c)
-    Facilitadores interculturales, d) Adecuaciones espaciales e infraestructura,
-    e) Asistencia espiritual/religiosa, f) Adecuaciones técnicas y
-    organizacionales. Un incumplimiento al Decreto 21 implica negar estas
-    garantías (ej. negar asistencia espiritual, no contar con facilitadores
-    donde se requiere, impedir el ingreso de sanadores, o no tener protocolos de
-    derivación/parto/placenta).
-  - Norma General Administrativa N° 16: Orienta la implementación de la
-    interculturalidad, complementariedad y pertinencia cultural en los Servicios
-    de Salud.
+- Ley 20.584 (Derechos y Deberes de los Pacientes), Artículo 7: Establece el
+  derecho de las personas pertenecientes a pueblos originarios a recibir una
+  atención de salud con pertinencia cultural en territorios de alta
+  concentración indígena. Exige la aplicación de un modelo de salud
+  intercultural validado por las comunidades que incluya: reconocimiento de
+  sistemas de sanación, facilitadores interculturales, señalética bilingüe y
+  asistencia espiritual.
+- Decreto 21 (Reglamento del Art. 7, Ley 20.584): Define los componentes
+  obligatorios del Modelo de Salud Intercultural: a) Participación indígena,
+  b) Reconocimiento y fortalecimiento de sistemas de sanación, c)
+  Facilitadores interculturales, d) Adecuaciones espaciales e infraestructura,
+  e) Asistencia espiritual/religiosa, f) Adecuaciones técnicas y
+  organizacionales. Un incumplimiento al Decreto 21 implica negar estas
+  garantías (ej. negar asistencia espiritual, no contar con facilitadores
+  donde se requiere, impedir el ingreso de sanadores, o no tener protocolos de
+  derivación/parto/placenta).
+- Norma General Administrativa N° 16: Orienta la implementación de la
+  interculturalidad, complementariedad y pertinencia cultural en los Servicios
+  de Salud.
 
 Conceptos Centrales:
 
-  - Interculturalidad en Salud: Proceso social interactivo de reconocimiento,
-    respeto, horizontalidad y colaboración entre dos o más culturas. Es un
-    cambio de paradigma que reconoce que el sistema biomédico no es el único
-    válido. Busca la complementariedad sin subordinación.
-  - Pertinencia Cultural: Adecuación de los servicios de salud (procesos,
-    organización, infraestructura) a las características geográficas,
-    epidemiológicas, y culturales de los usuarios, respetando sus cosmovisiones.
-  - Terminología Correcta: La Ley 19.253 y la Norma 820/643 utilizan
-    oficialmente los términos "Pueblos Indígenas" o "Pueblos Originarios". Se
-    reconoce actualmente a los pueblos: Mapuche, Aymara, Rapa Nui, Lican Antai
-    (Atacameño), Quechua, Colla, Diaguita, Kawésqar y Yagán (Yámana).
-
+- Interculturalidad en Salud: Proceso social interactivo de reconocimiento,
+  respeto, horizontalidad y colaboración entre dos o más culturas. Es un
+  cambio de paradigma que reconoce que el sistema biomédico no es el único
+  válido. Busca la complementariedad sin subordinación.
+- Pertinencia Cultural: Adecuación de los servicios de salud (procesos,
+  organización, infraestructura) a las características geográficas,
+  epidemiológicas, y culturales de los usuarios, respetando sus cosmovisiones.
+- Terminología Correcta: La Ley 19.253 y la Norma 820/643 utilizan
+  oficialmente los términos "Pueblos Indígenas" o "Pueblos Originarios". Se
+  reconoce actualmente a los pueblos: Mapuche, Aymara, Rapa Nui, Lican Antai
+  (Atacameño), Quechua, Colla, Diaguita, Kawésqar y Yagán (Yámana).
 2. IDENTIFICACIÓN Y REGISTRO EN SISTEMAS DE INFORMACIÓN (LA PREGUNTA)
 
 Norma Técnica N° 820 (Actualizada por Decreto 643/2016):
 
-  - Obligatoriedad y Universalidad: La pregunta por pertenencia a pueblos
-    indígenas corresponde al Conjunto Mínimo Básico de Datos. Es obligatoria y
-    universal. Se le debe preguntar a toda la población, sin importar su
-    apariencia física, apellido, vestimenta o procedencia.
-  - Formulación exacta de la pregunta: "¿Se considera perteneciente a algún
-    pueblo indígena u originario? a) Sí (¿A cuál?) b) No".
-  - Criterio de Autoidentificación: El registro se basa estrictamente en el
-    auto-reconocimiento del paciente. No requiere certificado de CONADI. No se
-    debe asumir la respuesta por prejuicios.
-  - ¿Cómo saber la cantidad de población indígena en mi comuna/CESFAM?: A nivel
-    general, se utiliza el Censo del INE (2017). A nivel de establecimiento de
-    salud, se debe revisar la población inscrita validada a través de los
-    Registros Estadísticos Mensuales (REM) (ej. REM P09 para adolescentes, REM
-    A06, etc.) donde se tabula esta variable.
-
+- Obligatoriedad y Universalidad: La pregunta por pertenencia a pueblos
+  indígenas corresponde al Conjunto Mínimo Básico de Datos. Es obligatoria y
+  universal. Se le debe preguntar a toda la población, sin importar su
+  apariencia física, apellido, vestimenta o procedencia.
+- Formulación exacta de la pregunta: "¿Se considera perteneciente a algún
+  pueblo indígena u originario? a) Sí (¿A cuál?) b) No".
+- Criterio de Autoidentificación: El registro se basa estrictamente en el
+  auto-reconocimiento del paciente. No requiere certificado de CONADI. No se
+  debe asumir la respuesta por prejuicios.
+- ¿Cómo saber la cantidad de población indígena en mi comuna/CESFAM?: A nivel
+  general, se utiliza el Censo del INE (2017). A nivel de establecimiento de
+  salud, se debe revisar la población inscrita validada a través de los
+  Registros Estadísticos Mensuales (REM) (ej. REM P09 para adolescentes, REM
+  A06, etc.) donde se tabula esta variable.
 3. LOS SISTEMAS MÉDICOS INDÍGENAS Y SUS ACTORES
 
 El Sistema Médico Indígena:
 
-  - No divide mente y cuerpo. La salud (Küme Mongen / Suma Qamaña) es un
-    equilibrio integral entre la persona, su familia, la comunidad, la
-    naturaleza y el mundo espiritual. La enfermedad es la ruptura de este
-    equilibrio por transgresiones a normas culturales, ambientales o
-    espirituales.
+- No divide mente y cuerpo. La salud (Küme Mongen / Suma Qamaña) es un
+  equilibrio integral entre la persona, su familia, la comunidad, la
+  naturaleza y el mundo espiritual. La enfermedad es la ruptura de este
+  equilibrio por transgresiones a normas culturales, ambientales o
+  espirituales.
 
 Rol del Sanador Indígena (Machi, Yatiri, Lawentuchefe, Qulliri, Puñeñelchefe):
 
-  - Son los especialistas legitimados por sus comunidades. Diagnostican y tratan
-    enfermedades (físicas, sociales, espirituales y del alma) mediante el uso de
-    herbolaria (Lawen), ritos, masajes, interpretación de sueños y ceremonias
-    para restaurar el equilibrio perdido.
-  - Diferencian entre enfermedades de origen indígena (que tratan ellos) y
-    enfermedades "huinca" o biomédicas (que derivan al sistema occidental).
+- Son los especialistas legitimados por sus comunidades. Diagnostican y tratan
+  enfermedades (físicas, sociales, espirituales y del alma) mediante el uso de
+  herbolaria (Lawen), ritos, masajes, interpretación de sueños y ceremonias
+  para restaurar el equilibrio perdido.
+- Diferencian entre enfermedades de origen indígena (que tratan ellos) y
+  enfermedades "huinca" o biomédicas (que derivan al sistema occidental).
 
 Rol del Facilitador Intercultural (Atención Primaria y Hospitalaria):
 
-  - Es un funcionario indígena validado por la comunidad. Actúa como puente o
-    nexo entre el sistema biomédico y el paciente/comunidad/sistema indígena.
-  - Funciones: Acompaña al paciente, traduce idioma y códigos culturales,
-    orienta administrativamente, realiza visitas domiciliarias, coordina la
-    asistencia espiritual y el ingreso de sanadores, y educa al equipo de salud.
-  - Importancia en Reuniones Clínicas: Deben ser incluidos en la discusión de
-    casos clínicos (junto a los asesores culturales) porque aportan el
-    "diagnóstico cultural", explican el contexto familiar/territorial de la
-    enfermedad, y ayudan a co-construir un plan de tratamiento que el paciente
-    realmente vaya a adherir y respetar.
-
+- Es un funcionario indígena validado por la comunidad. Actúa como puente o
+  nexo entre el sistema biomédico y el paciente/comunidad/sistema indígena.
+- Funciones: Acompaña al paciente, traduce idioma y códigos culturales,
+  orienta administrativamente, realiza visitas domiciliarias, coordina la
+  asistencia espiritual y el ingreso de sanadores, y educa al equipo de salud.
+- Importancia en Reuniones Clínicas: Deben ser incluidos en la discusión de
+  casos clínicos (junto a los asesores culturales) porque aportan el
+  "diagnóstico cultural", explican el contexto familiar/territorial de la
+  enfermedad, y ayudan a co-construir un plan de tratamiento que el paciente
+  realmente vaya a adherir y respetar.
 4. RELACIÓN CLÍNICA, COMPLEMENTARIEDAD Y TRATO AL PACIENTE
 
 Competencia Intercultural (Cómo evitar ser irrespetuoso):
 
-  - Autoconocimiento: El profesional debe reconocer sus propios sesgos,
-    prejuicios y posición de poder (etnocentrismo).
-  - Trato horizontal: Evitar conductas asistencialistas, paternalistas y el uso
-    de diminutivos. Validar el modelo explicativo del paciente (preguntar: ¿Qué
-    cree usted que causó su problema?).
-  - Escucha activa: Respetar los silencios y los tiempos de la cultura (ej. en
-    la cultura mapuche el "hablar" sin ser interrumpido es un acto de sanación).
-    Entrevistar con acompañantes si la cultura dicta que la comunidad/familia
-    explica mejor la dolencia que el individuo aislado.
+- Autoconocimiento: El profesional debe reconocer sus propios sesgos,
+  prejuicios y posición de poder (etnocentrismo).
+- Trato horizontal: Evitar conductas asistencialistas, paternalistas y el uso
+  de diminutivos. Validar el modelo explicativo del paciente (preguntar: ¿Qué
+  cree usted que causó su problema?).
+- Escucha activa: Respetar los silencios y los tiempos de la cultura (ej. en
+  la cultura mapuche el "hablar" sin ser interrumpido es un acto de sanación).
+  Entrevistar con acompañantes si la cultura dicta que la comunidad/familia
+  explica mejor la dolencia que el individuo aislado.
 
 Complementariedad de Sistemas (Derivación y Tratamientos Concurrentes):
 
-  - ¿Se puede derivar?: Sí. El Decreto 21 y la Norma 16 exigen crear protocolos
-    locales de referencia y contrarreferencia entre el equipo del
-    CESFAM/Hospital y los sanadores indígenas.
-  - Paciente en tratamiento con Sanador Indígena: Si el paciente lo comenta, el
-    profesional debe: a) Mostrar respeto y no invalidar ni burlarse del
-    tratamiento tradicional; b) Reconocerlo como una estrategia válida de
-    cuidado; c) Informar sobre la importancia del tratamiento biomédico buscando
-    que ambos se complementen.
-  - Insistencia en uso de hierbas en patología biomédica: No prohibir de tajo.
-    El médico/farmacéutico debe revisar si existe interacción farmacológica o
-    toxicidad real entre la hierba y el fármaco. Si la hay, se debe negociar y
-    educar al paciente explicando los efectos, buscando alternativas o separando
-    horarios, siempre sin despreciar el conocimiento indígena.
-  - Explicación eficaz de esquemas farmacológicos: Muchos pacientes indígenas
-    rechazan las pastillas por considerarlas "fuertes" o antinaturales (o
-    asocian colores, ej. rojo = muy fuerte). Para asegurar adherencia, las
-    indicaciones deben ser visuales. En lugar de horas de reloj (ej. "cada 8
-    horas"), usar hitos de la naturaleza según su cosmovisión: salida del sol,
-    mediodía, cuando se esconde el sol.
-
+- ¿Se puede derivar?: Sí. El Decreto 21 y la Norma 16 exigen crear protocolos
+  locales de referencia y contrarreferencia entre el equipo del
+  CESFAM/Hospital y los sanadores indígenas.
+- Paciente en tratamiento con Sanador Indígena: Si el paciente lo comenta, el
+  profesional debe: a) Mostrar respeto y no invalidar ni burlarse del
+  tratamiento tradicional; b) Reconocerlo como una estrategia válida de
+  cuidado; c) Informar sobre la importancia del tratamiento biomédico buscando
+  que ambos se complementen.
+- Insistencia en uso de hierbas en patología biomédica: No prohibir de tajo.
+  El médico/farmacéutico debe revisar si existe interacción farmacológica o
+  toxicidad real entre la hierba y el fármaco. Si la hay, se debe negociar y
+  educar al paciente explicando los efectos, buscando alternativas o separando
+  horarios, siempre sin despreciar el conocimiento indígena.
+- Explicación eficaz de esquemas farmacológicos: Muchos pacientes indígenas
+  rechazan las pastillas por considerarlas "fuertes" o antinaturales (o
+  asocian colores, ej. rojo = muy fuerte). Para asegurar adherencia, las
+  indicaciones deben ser visuales. En lugar de horas de reloj (ej. "cada 8
+  horas"), usar hitos de la naturaleza según su cosmovisión: salida del sol,
+  mediodía, cuando se esconde el sol.
 5. ESTRATEGIAS PRÁCTICAS Y ADECUACIONES (PERTINENCIA CULTURAL)
 
 ¿Cómo involucrar a personas indígenas en normativas o procesos?
 
-  - A través de las instancias formalizadas: Mesas de Salud Intercultural,
-    Consejos de Desarrollo Local, consultas a autoridades tradicionales (Lonkos,
-    Dirigentes), e integrando a representantes indígenas y facilitadores en los
-    Comités de Ética Asistencial.
+- A través de las instancias formalizadas: Mesas de Salud Intercultural,
+  Consejos de Desarrollo Local, consultas a autoridades tradicionales (Lonkos,
+  Dirigentes), e integrando a representantes indígenas y facilitadores en los
+  Comités de Ética Asistencial.
 
 Ejemplos de Estrategias de Atención con Pertinencia Cultural:
 
-  - Adecuación Espacial: Reorientación de las camas de hospitalización
-    (cabeceras hacia la salida del sol/Este o al Sur, según pauta Mapuche). Uso
-    de señalética bilingüe. Habilitación de salas de parto integral ("Utasanjam
-    Usuña" en el mundo Aymara).
-  - Parto y Nacimiento: Protocolo de Entrega de Placenta (Norma Técnica 189)
-    para ser enterrada según el rito; permitir que la gestante tome infusiones
-    (agüitas), no rasurar ni aplicar enemas por defecto; permitir acompañamiento
-    de parteras tradicionales (Puñeñelchefe); dejar el cordón umbilical más
-    largo.
-  - Atención Clínica: Facilitar el "manteo" (maniobra tradicional para acomodar
-    al feto) en box conjunto entre matrón/a y partera/Qulliri. Visitas
-    domiciliarias conjuntas (equipo de salud + agente de salud indígena).
+- Adecuación Espacial: Reorientación de las camas de hospitalización
+  (cabeceras hacia la salida del sol/Este o al Sur, según pauta Mapuche). Uso
+  de señalética bilingüe. Habilitación de salas de parto integral ("Utasanjam
+  Usuña" en el mundo Aymara).
+- Parto y Nacimiento: Protocolo de Entrega de Placenta (Norma Técnica 189)
+  para ser enterrada según el rito; permitir que la gestante tome infusiones
+  (agüitas), no rasurar ni aplicar enemas por defecto; permitir acompañamiento
+  de parteras tradicionales (Puñeñelchefe); dejar el cordón umbilical más
+  largo.
+- Atención Clínica: Facilitar el "manteo" (maniobra tradicional para acomodar
+  al feto) en box conjunto entre matrón/a y partera/Qulliri. Visitas
+  domiciliarias conjuntas (equipo de salud + agente de salud indígena).
 
 Ejemplos de Promoción y Prevención con Pertinencia:
 
-  - Alimentación: Talleres de cocina rescatando alimentos típicos del territorio
-    (ej. leche de cabra, quínoa, carne de llamo).
-  - Comunicación: Campañas de VIH/ITS protagonizadas por líderes indígenas,
-    habladas en lengua originaria (ej. campaña "#SiempreCondón" en aymara).
-  - Comunidad: Creación de huertos de plantas medicinales (Lawen) comunitarios
-    en el CESFAM. Talleres de telar o greda donde la "conversación" actúa como
-    terapia preventiva de salud mental. Rescate de juegos tradicionales (Palin).
+- Alimentación: Talleres de cocina rescatando alimentos típicos del territorio
+  (ej. leche de cabra, quínoa, carne de llamo).
+- Comunicación: Campañas de VIH/ITS protagonizadas por líderes indígenas,
+  habladas en lengua originaria (ej. campaña "#SiempreCondón" en aymara).
+- Comunidad: Creación de huertos de plantas medicinales (Lawen) comunitarios
+  en el CESFAM. Talleres de telar o greda donde la "conversación" actúa como
+  terapia preventiva de salud mental. Rescate de juegos tradicionales (Palin).
 
 Plan de Trabajo Intercultural (¿Qué actividades incluir?):
 
-  - Capacitación permanente al equipo (sensibilización, historia, cosmovisión).
-  - Elaboración de protocolos locales de parto intercultural, entrega de
-    placenta y derivación a medicina tradicional.
-  - Instalación de Mesas Territoriales Indígenas.
-  - Diagnósticos epidemiológicos socioculturales (identificar problemas de salud
-    sentidas por la comunidad).
-
+- Capacitación permanente al equipo (sensibilización, historia, cosmovisión).
+- Elaboración de protocolos locales de parto intercultural, entrega de
+  placenta y derivación a medicina tradicional.
+- Instalación de Mesas Territoriales Indígenas.
+- Diagnósticos epidemiológicos socioculturales (identificar problemas de salud
+  sentidas por la comunidad).
 6. PERFIL EPIDEMIOLÓGICO Y SALUD URBANA
 
 Principales Problemas de Salud en Población Indígena:
 
-  - Salud Mental: Altas tasas de Suicidio (especialmente en
-    jóvenes/adolescentes), Depresión profunda, y Consumo riesgoso de alcohol.
-    (Causados por el desarraigo, usurpación de tierras, pérdida de cultura,
-    violencia estructural).
-  - Salud Física / Morbilidad: Enfermedades Cardiovasculares (Hipertensión,
-    Síndrome Metabólico), Diabetes, Cáncer (especialmente digestivos/vesícula
-    biliar), Tuberculosis (TBC) de manera endémica, y Enfermedad de Chagas
-    (norte). Trastornos y traumatismos por causas externas (violencia,
-    accidentes).
-  - Existe una constante sobremortalidad indígena y brechas graves en mortalidad
-    infantil respecto a la población no indígena.
+- Salud Mental: Altas tasas de Suicidio (especialmente en
+  jóvenes/adolescentes), Depresión profunda, y Consumo riesgoso de alcohol.
+  (Causados por el desarraigo, usurpación de tierras, pérdida de cultura,
+  violencia estructural).
+- Salud Física / Morbilidad: Enfermedades Cardiovasculares (Hipertensión,
+  Síndrome Metabólico), Diabetes, Cáncer (especialmente digestivos/vesícula
+  biliar), Tuberculosis (TBC) de manera endémica, y Enfermedad de Chagas
+  (norte). Trastornos y traumatismos por causas externas (violencia,
+  accidentes).
+- Existe una constante sobremortalidad indígena y brechas graves en mortalidad
+  infantil respecto a la población no indígena.
 
 Necesidades de Salud de Personas Indígenas en la Ciudad (Urbana):
 
-  - El 74% de la población indígena vive en zonas urbanas.
-  - Problemas: Sufren fuerte estrés de aculturación, pérdida de la identidad,
-    discriminación escolar y laboral. Al migrar a la ciudad, se alejan de los
-    "factores protectores de la salud" que brindaba la comunidad rural (contacto
-    con la naturaleza, redes de parentesco fuertes, acceso directo a sanadores,
-    dieta tradicional).
-  - Necesidades: Requieren estrategias de reafirmación identitaria (grupos de
-    autoayuda, talleres culturales en la ciudad). Necesitan que los CESFAM
-    urbanos cuenten con facilitadores y redes de contacto con agentes
-    tradicionales, ya que el sistema biomédico de la ciudad tiende a patologizar
-    su tristeza (psiquiatrización rápida) sin abordar la pérdida de sus vínculos
-    territoriales y espirituales.
+- El 74% de la población indígena vive en zonas urbanas.
+- Problemas: Sufren fuerte estrés de aculturación, pérdida de la identidad,
+  discriminación escolar y laboral. Al migrar a la ciudad, se alejan de los
+  "factores protectores de la salud" que brindaba la comunidad rural (contacto
+  con la naturaleza, redes de parentesco fuertes, acceso directo a sanadores,
+  dieta tradicional).
+- Necesidades: Requieren estrategias de reafirmación identitaria (grupos de
+  autoayuda, talleres culturales en la ciudad). Necesitan que los CESFAM
+  urbanos cuenten con facilitadores y redes de contacto con agentes
+  tradicionales, ya que el sistema biomédico de la ciudad tiende a patologizar
+  su tristeza (psiquiatrización rápida) sin abordar la pérdida de sus vínculos
+  territoriales y espirituales.
 
 Material de referencia para responder preguntas frecuentes de equipos de salud
 
 Este documento sintetiza (no copia textual) el contenido de 16 fuentes: normativa vigente (Decreto 21 de 2023, Norma General Administrativa N°16 de 2006, Norma Técnica 820/643 sobre registro), la Política de Salud y Pueblos Indígenas (MINSAL), orientaciones técnicas sectoriales (salud sexual y reproductiva, salud mental, adolescentes, entrega de placenta, registro de variable de pertenencia), y literatura académica (Alarcón et al. 2004, Pérez et al. 2016, Huencho, Gavilán et al. 2017, Piñones Rivera) e informes epidemiológicos (Situación de Salud Mapuche-Lafkenche, Informe de Situación de Salud PI). Cada bloque indica de qué fuente(s) proviene para que la IA pueda citar con propiedad.
-1. TERMINOLOGÍA: ¿"pueblos indígenas", "pueblos originarios", "etnia"?
 
+1. TERMINOLOGÍA: ¿"pueblos indígenas", "pueblos originarios", "etnia"?
+   
     Base legal (Ley 19.253, art. 1°, citada en Norma 16 y Decreto 21): el Estado de Chile reconoce como "indígenas" a los descendientes de las agrupaciones humanas que existen en el territorio nacional desde tiempos precolombinos, que conservan manifestaciones étnicas y culturales propias, siendo la tierra el fundamento principal de su existencia y cultura. La ley reconoce 9 (originalmente 8, luego se sumó el pueblo Diaguita) pueblos: Mapuche, Aimara, Rapa Nui, Atacameño (Likan Antai), Quechua, Colla, Kawésqar (Alacalufe), Yagán (Yámana) y Diaguita.
     "Pueblos indígenas" vs. "pueblos originarios": el Decreto 21 y la mayoría de la normativa MINSAL usan formalmente "pueblos indígenas" (siguiendo la Ley 19.253 y el Convenio 169 OIT), pero la propia normativa reconoce el uso equivalente de "pueblos originarios". El documento de "Recomendaciones para adolescentes" (2023) explica que tras el proceso de consulta indígena del art. 7 de la Ley 20.584 se optó por usar mayoritariamente "pueblos originarios" en ese documento, dejando ver que ambos términos son aceptados y se usan como sinónimos en el sector salud.
     La pregunta oficial de registro (Norma 820/643) dice literalmente: "¿Se considera perteneciente a algún pueblo indígena u originario?" — es decir, usa ambos términos juntos, evitando tener que elegir uno.
@@ -498,9 +494,10 @@ Síntesis de principios recurrentes en las fuentes:
     Cuando la pregunta sea sobre datos locales específicos (comuna/CESFAM del usuario), indicar que este contexto no lo cubre y sugerir fuentes primarias (REM local, DEIS, INE).
     Distinguir siempre entre (a) contenido normativo/legal (lo que se debe hacer), (b) contenido de orientación técnica/buenas prácticas (lo recomendado, con ejemplos), y (c) contenido académico/crítico (perspectivas de análisis, no necesariamente "instrucciones" a seguir, pero útiles para matizar respuestas y evitar una visión ingenua o autocomplaciente de la política pública).
 
-
 # DATOS LOCALES — Región de La Araucanía
+
 ### Población indígena por comuna y población inscrita en salud municipal
+
 Fuente primaria: INE, "Síntesis de Resultados Censo 2017 — Región de La Araucanía" (Dirección Regional INE Araucanía, septiembre 2019), Anexo 5. Datos de inscritos: BCN, Reportes Estadísticos Comunales (fuente original: SINIM, con datos FONASA).
 
 ---
@@ -509,41 +506,41 @@ Fuente primaria: INE, "Síntesis de Resultados Censo 2017 — Región de La Arau
 
 La Región de La Araucanía tuvo **321.328 personas** que se consideraron pertenecientes a un pueblo indígena u originario en el Censo 2017, equivalente al **34,3%** de la población regional efectivamente censada (957.224 personas). El 97,8% de quienes declararon pertenencia se identificó como **Mapuche**.
 
-| Comuna | Provincia | Población total (Censo 2017) | Población indígena/originaria (total) | % sobre población comunal |
-|---|---|---|---|---|
-| Temuco | Cautín | 282.415 | 68.369 | 24,2% |
-| Carahue | Cautín | 25.335* | 10.038 | ~39,6% |
-| Cunco | Cautín | 17.526* | 5.438 | ~31,0% |
-| Curarrehue | Cautín | 7.489* | 4.946 | ~66,0% |
-| Freire | Cautín | 24.606* | 13.317 | ~54,1% |
-| Galvarino | Cautín | 11.996* | 8.307 | ~69,2% |
-| Gorbea | Cautín | 14.414* | 2.701 | ~18,7% |
-| Lautaro | Cautín | 38.013* | 14.558 | ~38,3% |
-| Loncoche | Cautín | 23.612* | 7.837 | ~33,2% |
-| Melipeuco | Cautín | 6.138* | 3.207 | ~52,3% |
-| Nueva Imperial | Cautín | 32.510* | 18.286 | ~56,2% |
-| Padre Las Casas | Cautín | 76.126 | 37.197 | 48,9% |
-| Perquenco | Cautín | 6.905* | 3.514 | ~50,9% |
-| Pitrufquén | Cautín | 24.837* | 8.423 | ~33,9% |
-| Pucón | Cautín | 28.523* | 7.959 | ~27,9% |
-| Saavedra | Cautín | 12.450* | 9.912 | **79,6%** |
-| Teodoro Schmidt | Cautín | 15.045* | 7.989 | ~53,1% |
-| Toltén | Cautín | 9.722* | 4.203 | ~43,2% |
-| Vilcún | Cautín | 28.151* | 9.863 | ~35,0% |
-| Villarrica | Cautín | 55.478* | 15.047 | ~27,1% |
-| Cholchol | Cautín | 11.611 | 8.743 | **75,3%** |
-| Angol | Malleco | 53.262* | 6.825 | ~12,8% |
-| Collipulli | Malleco | 24.598* | 6.588 | ~26,8% |
-| Curacautín | Malleco | 17.413* | 2.438 | ~14,0% |
-| Ercilla | Malleco | 7.733* | 4.047 | ~52,3% |
-| Lonquimay | Malleco | 10.251* | 5.584 | ~54,5% |
-| Los Sauces | Malleco | 7.265* | 2.120 | ~29,2% |
-| Lumaco | Malleco | 9.548* | 4.351 | ~45,6% |
-| Purén | Malleco | 11.779* | 3.305 | ~28,1% |
-| Renaico | Malleco | 10.250* | 1.253 | ~12,2% |
-| Traiguén | Malleco | 18.843* | 5.662 | ~30,1% |
-| Victoria | Malleco | 34.182* | 9.301 | ~27,2% |
-| **Región de La Araucanía (total)** | | **957.224** | **321.328** | **34,3%** |
+| Comuna                             | Provincia | Población total (Censo 2017) | Población indígena/originaria (total) | % sobre población comunal |
+| ---------------------------------- | --------- | ---------------------------- | ------------------------------------- | ------------------------- |
+| Temuco                             | Cautín    | 282.415                      | 68.369                                | 24,2%                     |
+| Carahue                            | Cautín    | 25.335*                      | 10.038                                | ~39,6%                    |
+| Cunco                              | Cautín    | 17.526*                      | 5.438                                 | ~31,0%                    |
+| Curarrehue                         | Cautín    | 7.489*                       | 4.946                                 | ~66,0%                    |
+| Freire                             | Cautín    | 24.606*                      | 13.317                                | ~54,1%                    |
+| Galvarino                          | Cautín    | 11.996*                      | 8.307                                 | ~69,2%                    |
+| Gorbea                             | Cautín    | 14.414*                      | 2.701                                 | ~18,7%                    |
+| Lautaro                            | Cautín    | 38.013*                      | 14.558                                | ~38,3%                    |
+| Loncoche                           | Cautín    | 23.612*                      | 7.837                                 | ~33,2%                    |
+| Melipeuco                          | Cautín    | 6.138*                       | 3.207                                 | ~52,3%                    |
+| Nueva Imperial                     | Cautín    | 32.510*                      | 18.286                                | ~56,2%                    |
+| Padre Las Casas                    | Cautín    | 76.126                       | 37.197                                | 48,9%                     |
+| Perquenco                          | Cautín    | 6.905*                       | 3.514                                 | ~50,9%                    |
+| Pitrufquén                         | Cautín    | 24.837*                      | 8.423                                 | ~33,9%                    |
+| Pucón                              | Cautín    | 28.523*                      | 7.959                                 | ~27,9%                    |
+| Saavedra                           | Cautín    | 12.450*                      | 9.912                                 | **79,6%**                 |
+| Teodoro Schmidt                    | Cautín    | 15.045*                      | 7.989                                 | ~53,1%                    |
+| Toltén                             | Cautín    | 9.722*                       | 4.203                                 | ~43,2%                    |
+| Vilcún                             | Cautín    | 28.151*                      | 9.863                                 | ~35,0%                    |
+| Villarrica                         | Cautín    | 55.478*                      | 15.047                                | ~27,1%                    |
+| Cholchol                           | Cautín    | 11.611                       | 8.743                                 | **75,3%**                 |
+| Angol                              | Malleco   | 53.262*                      | 6.825                                 | ~12,8%                    |
+| Collipulli                         | Malleco   | 24.598*                      | 6.588                                 | ~26,8%                    |
+| Curacautín                         | Malleco   | 17.413*                      | 2.438                                 | ~14,0%                    |
+| Ercilla                            | Malleco   | 7.733*                       | 4.047                                 | ~52,3%                    |
+| Lonquimay                          | Malleco   | 10.251*                      | 5.584                                 | ~54,5%                    |
+| Los Sauces                         | Malleco   | 7.265*                       | 2.120                                 | ~29,2%                    |
+| Lumaco                             | Malleco   | 9.548*                       | 4.351                                 | ~45,6%                    |
+| Purén                              | Malleco   | 11.779*                      | 3.305                                 | ~28,1%                    |
+| Renaico                            | Malleco   | 10.250*                      | 1.253                                 | ~12,2%                    |
+| Traiguén                           | Malleco   | 18.843*                      | 5.662                                 | ~30,1%                    |
+| Victoria                           | Malleco   | 34.182*                      | 9.301                                 | ~27,2%                    |
+| **Región de La Araucanía (total)** |           | **957.224**                  | **321.328**                           | **34,3%**                 |
 
 \* Población total comunal calculada sumando hombres + mujeres del Anexo 1 del mismo informe INE (no viene en una sola columna en el documento fuente, se reconstruyó sumando ambos sexos). Verificar contra el reporte comunal individual del INE si se requiere exactitud oficial cifra por cifra.
 
@@ -560,12 +557,12 @@ Este dato corresponde al total de inscritos en la atención primaria municipal d
 
 **Verificados directamente para este contexto:**
 
-| Comuna | Población inscrita validada (año) | Fuente |
-|---|---|---|
-| Temuco | 228.133 (2022) | BCN Reporte Comunal 2024, idcom=9101 |
-| Padre Las Casas | 77.768 (2022) | BCN Reporte Comunal 2024, idcom=9112 |
-| Victoria | 36.845 (2021) | BCN Reporte Comunal 2023, idcom=9211 |
-| **Región de La Araucanía (total)** | **856.440 (2022)** | BCN Reporte Comunal 2024 |
+| Comuna                             | Población inscrita validada (año) | Fuente                               |
+| ---------------------------------- | --------------------------------- | ------------------------------------ |
+| Temuco                             | 228.133 (2022)                    | BCN Reporte Comunal 2024, idcom=9101 |
+| Padre Las Casas                    | 77.768 (2022)                     | BCN Reporte Comunal 2024, idcom=9112 |
+| Victoria                           | 36.845 (2021)                     | BCN Reporte Comunal 2023, idcom=9211 |
+| **Región de La Araucanía (total)** | **856.440 (2022)**                | BCN Reporte Comunal 2024             |
 
 **Para las 29 comunas restantes**, el dato existe en el mismo sistema pero no fue extraído comuna por comuna en esta sesión (habría implicado ~29 consultas adicionales). Se puede obtener en 1 minuto por comuna con esta URL, reemplazando el código:
 
@@ -577,27 +574,27 @@ Buscar la sección **"3.2 Población inscrita validada en Servicios de Salud Mun
 
 **Códigos de comuna (idcom) — Región de La Araucanía:**
 
-| Comuna | idcom | Comuna | idcom |
-|---|---|---|---|
-| Temuco | 9101 | Pitrufquén | 9114 |
-| Carahue | 9102 | Pucón | 9115 |
-| Cunco | 9103 | Saavedra | 9116 |
-| Curarrehue | 9104 | Teodoro Schmidt | 9117 |
-| Freire | 9105 | Toltén | 9118 |
-| Galvarino | 9106 | Vilcún | 9119 |
-| Gorbea | 9107 | Villarrica | 9120 |
-| Lautaro | 9108 | Cholchol | 9121 |
-| Loncoche | 9109 | Angol | 9201 |
-| Melipeuco | 9110 | Collipulli | 9202 |
-| Nueva Imperial | 9111 | Curacautín | 9203 |
-| Padre Las Casas | 9112 | Ercilla | 9204 |
-| Perquenco | 9113 | Lonquimay | 9205 |
-| | | Los Sauces | 9206 |
-| | | Lumaco | 9207 |
-| | | Purén | 9208 |
-| | | Renaico | 9209 |
-| | | Traiguén | 9210 |
-| | | Victoria | 9211 |
+| Comuna          | idcom | Comuna          | idcom |
+| --------------- | ----- | --------------- | ----- |
+| Temuco          | 9101  | Pitrufquén      | 9114  |
+| Carahue         | 9102  | Pucón           | 9115  |
+| Cunco           | 9103  | Saavedra        | 9116  |
+| Curarrehue      | 9104  | Teodoro Schmidt | 9117  |
+| Freire          | 9105  | Toltén          | 9118  |
+| Galvarino       | 9106  | Vilcún          | 9119  |
+| Gorbea          | 9107  | Villarrica      | 9120  |
+| Lautaro         | 9108  | Cholchol        | 9121  |
+| Loncoche        | 9109  | Angol           | 9201  |
+| Melipeuco       | 9110  | Collipulli      | 9202  |
+| Nueva Imperial  | 9111  | Curacautín      | 9203  |
+| Padre Las Casas | 9112  | Ercilla         | 9204  |
+| Perquenco       | 9113  | Lonquimay       | 9205  |
+|                 |       | Los Sauces      | 9206  |
+|                 |       | Lumaco          | 9207  |
+|                 |       | Purén           | 9208  |
+|                 |       | Renaico         | 9209  |
+|                 |       | Traiguén        | 9210  |
+|                 |       | Victoria        | 9211  |
 
 ---
 
@@ -606,3 +603,12 @@ Buscar la sección **"3.2 Población inscrita validada en Servicios de Salud Mun
 - **Inscritos por CESFAM individual** (no por comuna completa): el dato de BCN/SINIM es agregado a nivel comunal, no desglosado por establecimiento. Para el detalle por CESFAM específico hay que consultar directamente al Departamento de Salud Municipal/Corporación de Salud de cada comuna, o el reporte interno REM A06/P09 de cada establecimiento.
 - **Población indígena inscrita específicamente en cada CESFAM**: este cruce (pertenencia indígena × establecimiento) no está publicado como dato abierto en ninguna fuente nacional; vive únicamente en el sistema de registro clínico interno de cada establecimiento (RayenSalud, PROCE, etc.), si es que se está registrando la variable de pertenencia según la Norma 820/643.
 - **Actualización con el Censo 2024**: el Censo de Población y Vivienda 2024 ya se realizó (marzo–julio 2024), pero al momento de esta búsqueda sus resultados desagregados de pueblos indígenas por comuna para La Araucanía aún no estaban disponibles como síntesis regional publicada equivalente a la usada aquí. Si tu IA necesita el dato más actualizado, debe verificar en censo2024.ine.gob.cl si ya se publicó el módulo de pueblos indígenas por comuna.
+
+Porcentaje de gente indigena por comuna:
+
+|                 | POBL TOTAL INSCRITA | %INDIGENA COMUNA | Nº DE INCRITOS INDIGENAS |
+|:--------------- | -------------------:| ----------------:| ------------------------:|
+| TALTAL          | 11.000              | 25,6             | 2.750                    |
+| BOYECO          | 7443                | 23,5             | 1711                     |
+| SILVA HENRIQUEZ | 23000               | 9%               | 2070                     |
+| TOTAL           |                     |                  | 6.531                    |
