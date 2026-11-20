@@ -165,7 +165,8 @@ async def web_chat(request: Request):
         from app.application.services.rag_service import RAGAgent
         if RAGAgent:
             agent = RAGAgent()
-            answer_generator, _ = agent.query(query, top_k=5)
+            previous = [(m.get("role", ""), m.get("content", "")) for m in history[:-1]][-20:]
+            answer_generator, _ = agent.query(query, top_k=5, history=previous)
             full_response = []
             for chunk in answer_generator:
                 full_response.append(chunk)

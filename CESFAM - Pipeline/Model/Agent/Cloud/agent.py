@@ -45,13 +45,18 @@ class RAGAgent:
                 self.vector_store.update_file_hash(file_path)
             self.vector_store.save()
 
-    def query(self, user_question: str, top_k: int = 5):
+    def query(self, user_question: str, top_k: int = 5, history: List[Tuple[str, str]] | None = None):
         if not self.vector_store.chunks:
             self.index_documents()
-        formatted_query = self.service.format_query_for_embedding(user_question)
+        # Para preguntas de seguimiento ("explicame mas"), la busqueda incluye la pregunta anterior.
+        search_text = user_question
+        previous_user = [text for role, text in (history or []) if role == "user"]
+        if previous_user:
+            search_text = f"{previous_user[-1]}\n{user_question}"
+        formatted_query = self.service.format_query_for_embedding(search_text)
         query_emb = self.service.embed_text(formatted_query)
         search_results = self.vector_store.search(query_emb, top_k=top_k)
-        answer_generator = self.service.generate_answer(user_question, search_results)
+        answer_generator = self.service.generate_answer(user_question, search_results, history)
         return answer_generator, search_results
 
 def main():

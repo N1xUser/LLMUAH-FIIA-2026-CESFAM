@@ -1,6 +1,7 @@
 let chatId = null;
 let captchaToken = localStorage.getItem('captchaToken');
 let currentCaptchaId = null;
+let resendAfterCaptcha = false;
 
 const captchaModal = document.getElementById('captcha-modal');
 const captchaForm = document.getElementById('captcha-form');
@@ -40,6 +41,10 @@ captchaForm.addEventListener('submit', async (e) => {
             captchaToken = data.token;
             localStorage.setItem('captchaToken', captchaToken);
             captchaModal.classList.remove('show');
+            if (resendAfterCaptcha && queryInput.value.trim()) {
+                resendAfterCaptcha = false;
+                chatForm.requestSubmit();
+            }
         } else {
             captchaError.textContent = data.error || 'Respuesta incorrecta.';
             showCaptcha();
@@ -210,8 +215,17 @@ chatForm.addEventListener('submit', async (e) => {
         removeThinking();
         
         if (res.status === 403) {
-            const data = await res.json();
-            if (false) {
+            const data = await res.json().catch(() => ({}));
+            if (data.needs_captcha) {
+                // Token vencido o inexistente en el servidor: se descarta y se pide un captcha nuevo.
+                captchaToken = null;
+                try { localStorage.removeItem('captchaToken'); } catch (_) {}
+                const userMsgs = chatContainer.querySelectorAll('.message-wrapper.user');
+                if (userMsgs.length) userMsgs[userMsgs.length - 1].remove();
+                queryInput.value = query;
+                resendAfterCaptcha = true;
+                showCaptcha();
+            } else {
                 appendMessage('bot', data.error || 'Error de autorización');
             }
         } else if (res.ok) {

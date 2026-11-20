@@ -37,7 +37,12 @@ class RAGService:
         
         
         
-        answer_generator, search_results = self._agent.query(query, top_k=self._top_k)
+        history_pairs = [
+            (m.role.value, m.content) for m in (history or []) if m.role != MessageRole.SYSTEM
+        ]
+        answer_generator, search_results = self._agent.query(
+            query, top_k=self._top_k, history=history_pairs
+        )
         
         
         full_answer = ""
